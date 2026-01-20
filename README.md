@@ -1,6 +1,7 @@
 # System Design Practical Implementations
 
 This repository contains practical implementations of system design concepts that I have learned from Hello Interview (https://www.hellointerview.com/learn/system-design). The goal is to convert theoretical knowledge into hands-on projects that demonstrate real-world components, patterns, and scalable system behaviors.
+Read my medium blog at https://medium.com/@saimanojcheruvu/real-time-data-patterns-c2502ee410ba
 
 Credits  
 The learning material and explanations are provided by Hello Interview. All credit goes to their platform for the foundation of these implementations.
