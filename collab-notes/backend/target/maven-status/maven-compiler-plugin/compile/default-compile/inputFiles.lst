@@ -1,0 +1,14 @@
+/Users/saimanojcheruvu/Desktop/High-Level-Design/collab-notes/backend/src/main/java/com/collabnotes/document/DocumentService.java
+/Users/saimanojcheruvu/Desktop/High-Level-Design/collab-notes/backend/src/main/java/com/collabnotes/document/OperationsRepository.java
+/Users/saimanojcheruvu/Desktop/High-Level-Design/collab-notes/backend/src/main/java/com/collabnotes/gateway/WebSocketController.java
+/Users/saimanojcheruvu/Desktop/High-Level-Design/collab-notes/backend/src/main/java/com/collabnotes/zookeeper/ZookeeperService.java
+/Users/saimanojcheruvu/Desktop/High-Level-Design/collab-notes/backend/src/main/java/com/collabnotes/zookeeper/ZookeeperConfig.java
+/Users/saimanojcheruvu/Desktop/High-Level-Design/collab-notes/backend/src/main/java/com/collabnotes/config/CorsConfig.java
+/Users/saimanojcheruvu/Desktop/High-Level-Design/collab-notes/backend/src/main/java/com/collabnotes/document/OperationTransformer.java
+/Users/saimanojcheruvu/Desktop/High-Level-Design/collab-notes/backend/src/main/java/com/collabnotes/metadata/DocumentMetadata.java
+/Users/saimanojcheruvu/Desktop/High-Level-Design/collab-notes/backend/src/main/java/com/collabnotes/gateway/ApiGatewayController.java
+/Users/saimanojcheruvu/Desktop/High-Level-Design/collab-notes/backend/src/main/java/com/collabnotes/metadata/MetadataService.java
+/Users/saimanojcheruvu/Desktop/High-Level-Design/collab-notes/backend/src/main/java/com/collabnotes/CollabnotesApplication.java
+/Users/saimanojcheruvu/Desktop/High-Level-Design/collab-notes/backend/src/main/java/com/collabnotes/metadata/MetadataRepository.java
+/Users/saimanojcheruvu/Desktop/High-Level-Design/collab-notes/backend/src/main/java/com/collabnotes/gateway/WebSocketConfig.java
+/Users/saimanojcheruvu/Desktop/High-Level-Design/collab-notes/backend/src/main/java/com/collabnotes/document/Operation.java

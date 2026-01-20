@@ -1,0 +1,15 @@
+com/collabnotes/document/OperationsRepository.class
+com/collabnotes/gateway/ApiGatewayController.class
+com/collabnotes/metadata/MetadataRepository.class
+com/collabnotes/zookeeper/ZookeeperService.class
+com/collabnotes/metadata/MetadataService.class
+com/collabnotes/CollabnotesApplication.class
+com/collabnotes/document/Operation.class
+com/collabnotes/gateway/WebSocketController.class
+com/collabnotes/document/OperationTransformer.class
+com/collabnotes/metadata/DocumentMetadata.class
+com/collabnotes/gateway/WebSocketConfig.class
+com/collabnotes/document/DocumentService.class
+com/collabnotes/zookeeper/ZookeeperConfig.class
+com/collabnotes/config/CorsConfig.class
+com/collabnotes/gateway/ApiGatewayController$CreateDocumentRequest.class
